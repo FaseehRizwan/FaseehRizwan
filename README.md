@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://mfaseeh.tech" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mfaseeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mfaseeh115/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/FaseehRizwan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:contact@mfaseeh.tech"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/923001234567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:mfaseehrizwan@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/923238971628" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -374,7 +374,7 @@
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:contact@mfaseeh.tech">
+  <a href="mailto:mfaseehrizwan@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-contact@mfaseeh.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -382,7 +382,7 @@
   <a href="https://mfaseeh.tech" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Website-mfaseeh.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/mfaseeh" target="_blank">
+  <a href="https://www.linkedin.com/in/mfaseeh115/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faseeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/FaseehRizwan" target="_blank">
@@ -462,7 +462,7 @@
 <a href="https://github.com/FaseehRizwan?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:contact@mfaseeh.tech">
+<a href="mailto:mfaseehrizwan@gmail.com">
   <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
