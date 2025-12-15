@@ -330,7 +330,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60px"/><br/>
 <b>Scaling EduLMS</b><br/>
-<sub>Target: 5000+ Users</sub><br/>
+<sub>Target: 500+ Schools</sub><br/>
 <img src="https://progress-bar.dev/40/?width=120&color=4CAF50"/>
 </td>
 <td align="center" width="25%">
@@ -377,7 +377,7 @@
 
 <p align="center">
   <a href="mailto:mfaseehrizwan@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-contact@mfaseeh.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧_Email-mfaseehrizwan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 <p align="center">
