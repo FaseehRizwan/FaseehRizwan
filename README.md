@@ -32,6 +32,7 @@
 
 ## 🌐 Connect With Me
 - Website: https://mfaseeh.tech
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/FaseehRizwan
+- My StartUp: https://edulms.online
 
 💡 Execution > Syntax | Ideas → Shipped Code
