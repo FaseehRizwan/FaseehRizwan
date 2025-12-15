@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Faseeh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20AI%20Specialist%20|%20Founder%20@%20EduLMS&descSize=16&descAlignY=51"/>
 
 <p align="center">
-  <a href="https://mfaseeh.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mfaseeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FaseehRizwan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mfaseeh.tech" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mfaseeh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/FaseehRizwan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:contact@mfaseeh.tech"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/923001234567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/923001234567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -28,16 +28,16 @@
 
 <div align="left">
 
-👨‍💻 **Full-Stack Developer** passionate about building impactful solutions  
-🚀 **Founder & CEO** of EduLMS - Serving 500+ students  
-🎓 **BS Computer Science** Student (2022-2026)  
+👨‍💻 **Full-Stack Developer** | **3D Artist** | **Game Developer**  
+🚀 **Founder & CEO** of EduLMS - LMS for Schools at Affordable Monthly Rates  
+🎓 **BS Computer Science** Student (2024-2028)  
 🌍 **Based in** Pakistan 🇵🇰  
-🤖 **Specialized in** AI Automation & Web/Mobile Development  
+🤖 **Specialized in** Web/Mobile Development, AI Automation & 3D Game Development  
 
 ### 🎯 Current Focus
-- 🔨 Scaling EduLMS to 5000+ users
-- 🧠 Building AI-powered automation tools
-- 🌱 Contributing to open-source projects
+- 🏫 Building EduLMS - Affordable School Management Solution
+- 🤖 Creating AI-powered automation tools & intelligent bots
+- 🎮 Developing 3D games and interactive experiences
 - 💼 Open to Full-Time & Freelance opportunities
 
 ### 💡 Philosophy
@@ -57,21 +57,21 @@
 <td width="50%">
 
 ### 💼 Professional Experience
-- ✅ **Founder & CEO** of EduLMS - Learning Management Platform
-- ✅ Built **AI-powered automation systems** serving real users
+- ✅ **Founder & CEO** of EduLMS - Affordable School Management Platform
+- ✅ Built **AI-powered automation systems** for business workflows
 - ✅ Developed **WhatsApp Business Bots** for client automation
-- ✅ Created **full-stack web & mobile applications** from scratch
-- ✅ Experience with **production-grade deployments** and scaling
+- ✅ Created **3D models & game environments** for interactive experiences
+- ✅ Experience with **full-stack development** and cloud deployments
 
 </td>
 <td width="50%">
 
 ### 🔥 Core Competencies
 - ⚡ **Full-Stack Development** (Frontend + Backend + Database)
-- 🤖 **AI & Automation** (Bots, Workflows, Smart Systems)
+- 🤖 **AI & Automation** (Bots, Workflows, n8n, Make)
 - 📱 **Mobile Development** (Flutter, Cross-platform)
-- 🎨 **UI/UX Design** (Figma, User-centered design)
-- ☁️ **Cloud & DevOps** (Deployment, CI/CD, Server Management)
+- 🎮 **3D Modeling & Game Dev** (Maya, Blender, Unity)
+- ☁️ **Cloud & DevOps** (Docker, Linux, Digital Ocean, Contabo)
 
 </td>
 </tr>
@@ -84,7 +84,6 @@
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -95,43 +94,49 @@
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Backend Services
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### 🤖 AI & Automation
+### 🤖 AI & Automation Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-8E75B2?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Development Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contabo-0A68F5?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🎨 Design & 3D Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 ---
@@ -142,33 +147,33 @@
 <tr>
 <td width="50%">
 
-### 🎓 EduLMS - Learning Management System
-**A comprehensive platform revolutionizing online education**
+### 🎓 EduLMS - School Management System
+**Affordable LMS platform for schools with comprehensive management tools**
 
-🔹 **Tech Stack:** Node.js, Express, MongoDB, Flutter, React  
+🔹 **Tech Stack:** Node.js, Express, MySQL, Flutter  
 🔹 **Features:**
-- Student & instructor management
-- Interactive course delivery system
-- Real-time progress tracking
-- Payment gateway integration
+- School & student management system
+- Teacher and course management
+- Attendance tracking & reporting
+- Affordable monthly subscription model
 - Mobile & web responsive
 
-🔗 **[Live Demo](https://mfaseeh.tech)** | 📊 Impact: Serving 500+ students
+🔗 **[Visit Website](https://mfaseeh.tech)** | 🏫 Startup: Building for Educational Institutions
 
 </td>
 <td width="50%">
 
 ### 🤖 AI Automation Suite
-**Intelligent automation tools for business workflows**
+**Intelligent automation tools powered by AI for business workflows**
 
-🔹 **Tech Stack:** Node.js, Python, OpenAI API, Puppeteer  
+🔹 **Tech Stack:** Node.js, Python, n8n, Make, ChatGPT/Claude/Gemini  
 🔹 **Features:**
-- Custom AI chatbots with learning capability
-- Document processing automation
-- Data extraction & analysis
-- Workflow optimization tools
+- Custom AI chatbots with AI integration
+- Automated workflow orchestration
+- Business process automation
+- Multi-platform bot development
 
-🔗 **[GitHub Repo](https://github.com/FaseehRizwan/ai-automation)** | ⭐ 50+ Stars
+🔗 **[GitHub Repo](https://github.com/FaseehRizwan/ai-automation)**
 
 </td>
 </tr>
@@ -177,29 +182,31 @@
 <td width="50%">
 
 ### 💬 WhatsApp Business Automation
-**Smart bots automating customer interactions**
+**Smart bots automating customer interactions and business processes**
 
-🔹 **Tech Stack:** Node.js, WhatsApp Web API, MongoDB  
+🔹 **Tech Stack:** Node.js, WhatsApp Web API, MySQL  
 🔹 **Features:**
-- Automated customer responses
+- Automated customer responses with AI
 - Order management system
 - Appointment scheduling
-- Multi-agent support
+- Business workflow automation
 
-🔗 **[GitHub Repo](https://github.com/FaseehRizwan/whatsapp-bots)** | 💼 Used by 10+ businesses
+🔗 **[GitHub Repo](https://github.com/FaseehRizwan/whatsapp-bots)**
 
 </td>
 <td width="50%">
 
-### 🌐 Portfolio & More
-**Additional projects showcasing diverse skills**
+### � 3D & Game Development
+**Interactive 3D experiences and game projects**
 
-🔹 **E-commerce Solutions** - Full-stack shopping platforms  
-🔹 **Dashboard Analytics** - Real-time data visualization  
-🔹 **API Development** - RESTful services & microservices  
-🔹 **Chrome Extensions** - Productivity tools  
+🔹 **Skills:** Unity, Maya, Blender  
+🔹 **Projects:**
+- 3D character modeling & rigging
+- Environment design & asset creation
+- Game mechanics development
+- Interactive simulations
 
-🔗 **[View All Projects](https://mfaseeh.tech/projects)**
+🔗 **[View Portfolio](https://mfaseeh.tech/projects)**
 
 </td>
 </tr>
@@ -236,36 +243,36 @@
   
 **🎨 Frontend Development**
 
-![React.js](https://img.shields.io/badge/React.js-90%25-61DAFB?style=flat-square&logo=react&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-95%25-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-85%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=flat-square&logo=flutter&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-80%25-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-75%25-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)  
-![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-90%25-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Responsive](https://img.shields.io/badge/Responsive-95%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-80%25-0175C2?style=flat-square&logo=dart&logoColor=white)  
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-88%25-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
 **⚙️ Backend Development**
 
-![Node.js](https://img.shields.io/badge/Node.js-92%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-90%25-000000?style=flat-square&logo=express&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/REST_APIs-88%25-009688?style=flat-square&logo=fastapi&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-![Authentication](https://img.shields.io/badge/Authentication-90%25-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-88%25-000000?style=flat-square&logo=express&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-82%25-07405E?style=flat-square&logo=sqlite&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-80%25-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 <td width="33%" valign="top">
 
-**🤖 AI & Automation**
+**🤖 AI & 3D/Game Dev**
 
-![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-87%25-00A67E?style=flat-square&logo=openai&logoColor=white)  
-![Bot Development](https://img.shields.io/badge/Bot_Development-90%25-7289DA?style=flat-square&logo=discord&logoColor=white)  
-![Workflow Auto](https://img.shields.io/badge/Workflow_Auto-91%25-FF4A00?style=flat-square&logo=zapier&logoColor=white)  
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-85%25-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)  
-![Python Scripts](https://img.shields.io/badge/Python_Scripts-78%25-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Process Auto](https://img.shields.io/badge/Process_Auto-89%25-FFD43B?style=flat-square&logo=automationdirect&logoColor=black)
+![AI Integration](https://img.shields.io/badge/AI_Integration-88%25-00A67E?style=flat-square&logo=openai&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-85%25-EA4B71?style=flat-square&logo=n8n&logoColor=white)  
+![Make](https://img.shields.io/badge/Make-82%25-6D00CC?style=flat-square&logo=integromat&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-80%25-000000?style=flat-square&logo=unity&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-78%25-F5792A?style=flat-square&logo=blender&logoColor=white)  
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-75%25-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
 </td>
 </tr>
@@ -281,18 +288,18 @@
 
 ### 🎓 Formal Education
 - **Bachelor of Science in Computer Science**  
-  *Currently Pursuing | 2022 - 2026*  
-  Focus: Software Engineering, AI, Data Structures
+  *Currently Pursuing | 2024 - 2028*  
+  Focus: Software Engineering, AI, Game Development
 
 </td>
 <td width="50%">
 
-### 📜 Certifications & Learning
-- ✅ Full-Stack Web Development
-- ✅ AI & Machine Learning Fundamentals
-- ✅ Flutter Mobile Development
-- ✅ Cloud Computing Basics
-- ✅ Advanced JavaScript & Node.js
+### 📜 Skills & Expertise
+- ✅ Full-Stack Web & Mobile Development
+- ✅ AI Integration & Automation (n8n, Make)
+- ✅ 3D Modeling & Game Development
+- ✅ Cloud Deployment (Digital Ocean, Contabo)
+- ✅ Linux Server Management & Docker
 
 </td>
 </tr>
@@ -372,13 +379,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://mfaseeh.tech">
+  <a href="https://mfaseeh.tech" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Website-mfaseeh.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/mfaseeh">
+  <a href="https://linkedin.com/in/mfaseeh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faseeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/FaseehRizwan">
+  <a href="https://github.com/FaseehRizwan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@FaseehRizwan-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -452,7 +459,7 @@
 **⭐ If you find my work valuable, consider starring my repositories!**  
 **💼 Open to collaborations, freelance work, and full-time opportunities**  
 
-<a href="https://github.com/FaseehRizwan?tab=repositories">
+<a href="https://github.com/FaseehRizwan?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:contact@mfaseeh.tech">
