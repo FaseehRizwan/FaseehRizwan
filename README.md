@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mfaseeh.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/mfaseeh](https://www.linkedin.com/in/mfaseeh115/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mfaseeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/FaseehRizwan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:contact@mfaseeh.tech"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/923001234567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -168,7 +168,7 @@
 - Data extraction & analysis
 - Workflow optimization tools
 
-🔗 **[GitHub Repo](https://github.com/mfaseeh/ai-automation)** | ⭐ 50+ Stars
+🔗 **[GitHub Repo](https://github.com/FaseehRizwan/ai-automation)** | ⭐ 50+ Stars
 
 </td>
 </tr>
@@ -186,7 +186,7 @@
 - Appointment scheduling
 - Multi-agent support
 
-🔗 **[GitHub Repo](https://github.com/mfaseeh/whatsapp-bots)** | 💼 Used by 10+ businesses
+🔗 **[GitHub Repo](https://github.com/FaseehRizwan/whatsapp-bots)** | 💼 Used by 10+ businesses
 
 </td>
 <td width="50%">
@@ -209,21 +209,21 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfaseeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaseeh&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaseeh&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfaseeh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaseehRizwan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaseehRizwan&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfaseeh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaseehRizwan&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaseehRizwan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FaseehRizwan&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -232,43 +232,40 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
   
-### 🎨 Frontend Development
-```javascript
-React.js         ████████████ 90%
-Flutter          ███████████░ 85%
-Next.js          ██████████░░ 80%
-Vue.js           █████████░░░ 75%
-UI/UX Design     ████████████ 90%
-Responsive       ████████████ 95%
-```
+**🎨 Frontend Development**
+
+![React.js](https://img.shields.io/badge/React.js-90%25-61DAFB?style=flat-square&logo=react&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-80%25-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-75%25-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)  
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-90%25-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Responsive](https://img.shields.io/badge/Responsive-95%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### ⚙️ Backend Development
-```javascript
-Node.js          ████████████ 92%
-Express.js       ████████████ 90%
-REST APIs        ███████████░ 88%
-MongoDB          ██████████░░ 85%
-PostgreSQL       █████████░░░ 80%
-Authentication   ████████████ 90%
-```
+**⚙️ Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-92%25-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-90%25-000000?style=flat-square&logo=express&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST_APIs-88%25-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+![Authentication](https://img.shields.io/badge/Authentication-90%25-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🤖 AI & Automation
-```javascript
-ChatGPT API      ███████████░ 87%
-Bot Development  ████████████ 90%
-Workflow Auto    ████████████ 91%
-Web Scraping     ██████████░░ 85%
-Python Scripts   █████████░░░ 78%
-Process Auto     ████████████ 89%
-```
+**🤖 AI & Automation**
+
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-87%25-00A67E?style=flat-square&logo=openai&logoColor=white)  
+![Bot Development](https://img.shields.io/badge/Bot_Development-90%25-7289DA?style=flat-square&logo=discord&logoColor=white)  
+![Workflow Auto](https://img.shields.io/badge/Workflow_Auto-91%25-FF4A00?style=flat-square&logo=zapier&logoColor=white)  
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-85%25-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)  
+![Python Scripts](https://img.shields.io/badge/Python_Scripts-78%25-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Process Auto](https://img.shields.io/badge/Process_Auto-89%25-FFD43B?style=flat-square&logo=automationdirect&logoColor=black)
 
 </td>
 </tr>
@@ -315,20 +312,40 @@ Process Auto     ████████████ 89%
 
 ---
 
-## 📈 Current Focus & Goals
+## 📈 Current Focus & Goals (2025)
 
-```mermaid
-graph LR
-    A[Current Focus] --> B[Scaling EduLMS]
-    A --> C[Advanced AI Integration]
-    A --> D[Open Source Contributions]
-    A --> E[Building SaaS Products]
-    
-    B --> F[Target: 5000+ users]
-    C --> G[GPT-4 & Claude Integration]
-    D --> H[Contributing to 10+ repos]
-    E --> I[Launch 3 products in 2025]
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60px"/><br/>
+<b>Scaling EduLMS</b><br/>
+<sub>Target: 5000+ Users</sub><br/>
+<img src="https://progress-bar.dev/40/?width=120&color=4CAF50"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60px"/><br/>
+<b>AI Integration</b><br/>
+<sub>GPT-4 & Claude</sub><br/>
+<img src="https://progress-bar.dev/55/?width=120&color=2196F3"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="60px"/><br/>
+<b>Open Source</b><br/>
+<sub>10+ Contributions</sub><br/>
+<img src="https://progress-bar.dev/65/?width=120&color=FF9800"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/product.png" width="60px"/><br/>
+<b>SaaS Products</b><br/>
+<sub>Launch 3 Products</sub><br/>
+<img src="https://progress-bar.dev/40/?width=120&color=9C27B0"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -351,21 +368,43 @@ graph LR
 
 <p align="center">
   <a href="mailto:contact@mfaseeh.tech">
-    <img src="https://img.shields.io/badge/Email-contact@mfaseeh.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧_Email-contact@mfaseeh.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p align="center">
   <a href="https://mfaseeh.tech">
-    <img src="https://img.shields.io/badge/Website-mfaseeh.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐_Website-mfaseeh.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/mfaseeh">
-    <img src="https://img.shields.io/badge/LinkedIn-mfaseeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faseeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/mfaseeh">
-    <img src="https://img.shields.io/badge/GitHub-mfaseeh-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/FaseehRizwan">
+    <img src="https://img.shields.io/badge/GitHub-@FaseehRizwan-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-### ⚡ Fun Fact
-> I started coding to automate my homework... now I'm automating entire businesses! 🚀
+### ⚡ Fun Facts About Me
+
+<table align="center">
+<tr>
+<td align="center">🎯</td>
+<td>I started coding to automate my homework... now I'm automating entire businesses!</td>
+</tr>
+<tr>
+<td align="center">☕</td>
+<td>Coffee-driven developer |Debbugs with determination | Ships code that matters</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td>Built my first production app at 19 | Now serving 500+ real users</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td>Believer in "Execution > Ideas" | Action-oriented problem solver</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
@@ -377,20 +416,51 @@ graph LR
 
 ### 💭 My Philosophy
 
-> **"The best way to predict the future is to build it."**  
-> *I don't wait for opportunities — I create them through code.*
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it&author=Muhammad%20Faseeh"/>
+</td>
+<td align="center" width="50%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don't%20wait%20for%20opportunities%20—%20I%20create%20them%20through%20code&author="/>
+</td>
+</tr>
+</table>
 
-### 🎯 2025 Goals Tracker
+### 🎯 2025 Goals Progress
 
-![](https://progress-bar.dev/40/?title=Launch%203%20SaaS%20Products&width=200)  
-![](https://progress-bar.dev/65/?title=Contribute%20to%20Open%20Source&width=200)  
-![](https://progress-bar.dev/55/?title=Master%20AI%20Integration&width=200)  
-![](https://progress-bar.dev/80/?title=Build%20Professional%20Network&width=200)
+<div align="center">
+
+| Goal | Progress | Status |
+|:-----|:--------:|:------:|
+| 🚀 Launch 3 SaaS Products | ![40%](https://progress-bar.dev/40/?width=200&color=4CAF50) | In Progress |
+| 🌟 Open Source Contributions | ![65%](https://progress-bar.dev/65/?width=200&color=2196F3) | On Track |
+| 🧠 Master AI Integration | ![55%](https://progress-bar.dev/55/?width=200&color=FF9800) | Learning |
+| 🤝 Build Professional Network | ![80%](https://progress-bar.dev/80/?width=200&color=9C27B0) | Thriving |
+| 📚 Complete 5 Advanced Courses | ![45%](https://progress-bar.dev/45/?width=200&color=E91E63) | Active |
+
+</div>
 
 ---
 
-**⭐ If you find my work valuable, consider starring my repositories!**
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### 🌟 Thanks for Visiting! 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Open+to+Full-Time+Opportunities;Available+for+Freelance+Projects;Let's+Build+Something+Amazing+Together!;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
+
+**⭐ If you find my work valuable, consider starring my repositories!**  
+**💼 Open to collaborations, freelance work, and full-time opportunities**  
+
+<a href="https://github.com/FaseehRizwan?tab=repositories">
+  <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:contact@mfaseeh.tech">
+  <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
