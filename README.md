@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://mfaseeh.tech" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://edulms.online" target="_blank"><img src="https://img.shields.io/badge/🏫_EduLMS-4CAF50?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mfaseeh115/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://web.facebook.com/profile.php?id=61550282800283" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://github.com/FaseehRizwan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:mfaseehrizwan@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/923238971628" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -158,7 +160,7 @@
 - Affordable monthly subscription model
 - Mobile & web responsive
 
-🔗 **[Visit Website](https://mfaseeh.tech)** | 🏫 Startup: Building for Educational Institutions
+🔗 **[Visit EduLMS](https://edulms.online)** | 🏫 Startup: Building for Educational Institutions
 
 </td>
 <td width="50%">
@@ -173,7 +175,7 @@
 - Business process automation
 - Multi-platform bot development
 
-🔗 **[GitHub Repo](https://github.com/FaseehRizwan/ai-automation)**
+🔗 **GitHub Repo Coming Soon**
 
 </td>
 </tr>
@@ -191,7 +193,7 @@
 - Appointment scheduling
 - Business workflow automation
 
-🔗 **[GitHub Repo](https://github.com/FaseehRizwan/whatsapp-bots)**
+🔗 **GitHub Repo Coming Soon**
 
 </td>
 <td width="50%">
@@ -382,8 +384,16 @@
   <a href="https://mfaseeh.tech" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Website-mfaseeh.tech-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+  <a href="https://edulms.online" target="_blank">
+    <img src="https://img.shields.io/badge/🏫_EduLMS-edulms.online-4CAF50?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mfaseeh115/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faseeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=61550282800283" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://github.com/FaseehRizwan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@FaseehRizwan-100000?style=for-the-badge&logo=github&logoColor=white"/>
