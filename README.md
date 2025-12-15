@@ -1,19 +1,19 @@
 <div align="center">
-  
-# 👋 Hi, I'm Muhammad Faseeh
 
-### 🚀 Full-Stack Developer | AI Automation Specialist | Founder & CEO @ EduLMS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Faseeh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20AI%20Specialist%20|%20Founder%20@%20EduLMS&descSize=16&descAlignY=51"/>
 
 <p align="center">
-  <a href="https://mfaseeh.tech"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://mfaseeh.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mfaseeh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mfaseeh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:contact@mfaseeh.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/FaseehRizwan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:contact@mfaseeh.tech"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/923001234567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfaseeh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mfaseeh?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=FaseehRizwan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/FaseehRizwan?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
+  <img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge" alt="Open to Work">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -24,23 +24,29 @@
 
 ## 💫 About Me
 
-```typescript
-const faseeh = {
-    location: "Pakistan 🇵🇰",
-    education: "BS Computer Science Student",
-    currentRole: "Founder & CEO @ EduLMS",
-    focusAreas: ["AI Automation", "Full-Stack Development", "Mobile Apps", "SaaS Products"],
-    currentlyLearning: ["Advanced AI Integration", "Microservices Architecture", "Cloud Native Development"],
-    philosophy: "Execution > Syntax | Ship Products, Not Promises",
-    lifeGoal: "Building scalable solutions that solve real-world problems",
-    openToWork: true,
-    availableFor: ["Full-time opportunities", "Freelance projects", "Consulting", "Technical collaboration"]
-};
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<div align="left">
+
+👨‍💻 **Full-Stack Developer** passionate about building impactful solutions  
+🚀 **Founder & CEO** of EduLMS - Serving 500+ students  
+🎓 **BS Computer Science** Student (2022-2026)  
+🌍 **Based in** Pakistan 🇵🇰  
+🤖 **Specialized in** AI Automation & Web/Mobile Development  
+
+### 🎯 Current Focus
+- 🔨 Scaling EduLMS to 5000+ users
+- 🧠 Building AI-powered automation tools
+- 🌱 Contributing to open-source projects
+- 💼 Open to Full-Time & Freelance opportunities
+
+### 💡 Philosophy
+> **"Execution > Syntax | Ship Products, Not Promises"**  
+> I don't just write code — I build solutions that solve real problems
+
 </div>
+
+<br clear="both"/>
 
 ---
 
